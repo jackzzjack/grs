@@ -53,6 +53,14 @@ Web Demo
 - grs Online: http://grs.toomore.net/
 
 -----------------------------
+Installation
+-----------------------------
+
+1. python setup.py build
+
+2. (sudo) python setup.py install
+
+-----------------------------
 Quick Start
 -----------------------------
 
